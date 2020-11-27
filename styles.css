@@ -3,9 +3,9 @@ body {
 }
 
 .myNeu {
-  border-radius: 50px;
+  border-radius: 50%;
   background: linear-gradient(225deg, #d4d1c9, #fbf8ef);
-  box-shadow: -20px 20px 60px #b7b5ae, 20px -20px 60px #ffffff;
+  box-shadow: -15px 15px 75px #cfccc4, 15px -15px 75px #fffffa;
 }
 
 #myName {
