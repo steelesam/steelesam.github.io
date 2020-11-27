@@ -2,7 +2,7 @@ body {
   background-color: #fffcf2;
 }
 
-.myNeu {
+#myNeu {
   border-radius: 50px;
   background: #fffcf2;
   box-shadow: 36px 36px 71px #cfccc4, -36px -36px 71px #ffffff;
