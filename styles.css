@@ -1,11 +1,11 @@
 body {
-  background-color: #d4d1c9 !important;
+  background-color: #e6e7ee !important;
 }
 
 .myNeu {
   border-radius: 50%;
-  background: linear-gradient(225deg, #d4d1c9, #fbf8ef);
-  box-shadow: -15px 15px 75px #cfccc4, 15px -15px 75px #fffffa;
+  background: linear-gradient(225deg, #cfd0d6, #f6f7ff);
+  box-shadow: -15px 15px 75px #cacbd1, 15px -15px 75px #ffffff;
 }
 
 #myName {
