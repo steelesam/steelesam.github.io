@@ -1,5 +1,8 @@
 body {
   background-color: #fffcf2;
+  border-radius: 82px;
+  background: #fffcf2;
+  box-shadow: 14px 14px 45px #8f8d88, -14px -14px 45px #ffffff;
 }
 
 #myName {
