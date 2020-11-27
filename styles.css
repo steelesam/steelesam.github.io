@@ -1,8 +1,11 @@
 body {
   background-color: #fffcf2;
-  border-radius: 82px;
+}
+
+#myNeu {
+  border-radius: 50px;
   background: #fffcf2;
-  box-shadow: 14px 14px 45px #8f8d88, -14px -14px 45px #ffffff;
+  box-shadow: 36px 36px 71px #cfccc4, -36px -36px 71px #ffffff;
 }
 
 #myName {
