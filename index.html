@@ -40,23 +40,24 @@
     />
   </head>
   <body onload="typeWriter()">
-    <div class="container">
-      <div class="row">
-        <div class="col"></div>
-        <div class="col-6 text-center">
-          <h1 id="myName"></h1>
-          <div id="myNeu"></div>
+    <section id="topSection">
+      <div class="container">
+        <div class="row">
+          <div class="col"></div>
+          <div class="col-6 text-center">
+            <h1 id="myName"></h1>
+          </div>
+          <div class="col"></div>
         </div>
-        <div class="col"></div>
       </div>
-    </div>
+    </section>
   </body>
 </html>
 
 <script>
   var i = 0;
   var text = "Hey, my name is Sam Steele."; /* The text */
-  var speed = 100; /* The speed/duration of the effect in milliseconds */
+  var speed = 75; /* The speed/duration of the effect in milliseconds */
 
   function typeWriter() {
     if (i < text.length) {
