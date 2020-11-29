@@ -3,7 +3,7 @@ body {
 }
 
 .myNeu {
-  border-radius: 50%;
+  border-radius: 30px;
   background: linear-gradient(225deg, #cfd0d6, #f6f7ff);
   box-shadow: -15px 15px 75px #cacbd1, 15px -15px 75px #ffffff;
 }
