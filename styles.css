@@ -35,3 +35,8 @@ body {
   width: 150px;
   margin: auto;
 }
+
+#blurbP {
+  margin-top: 75px;
+  font-family: "Raleway", sans-serif;
+}
