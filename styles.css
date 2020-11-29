@@ -40,11 +40,13 @@ body {
   text-align: center;
 }
 
-#linkedinIcon {
+#linkedinIcon,
+.fa-linkedin {
   color: #4f9bff !important;
 }
 
-#projectsIcon {
+#projectsIcon,
+.fa-project-diagram {
   color: #ff443b !important;
 }
 
@@ -52,15 +54,18 @@ body {
   color: #ffcc40 !important;
 }
 
-#contactIcon {
+#contactIcon,
+.fa-address-card {
   color: #ff9a26 !important;
 }
 
-#downloadCVIcon {
+#downloadCVIcon,
+.fa-cloud-download-alt {
   color: #47b415 !important;
 }
 
-#githubIcon {
+#githubIcon,
+.fa-github {
   color: black !important;
 }
 
@@ -70,6 +75,14 @@ body {
   animation-iteration-count: 1;
   animation-timing-function: ease-in;
   animation-duration: 2s;
+}
+
+.grow {
+  transition: all 0.2s ease-in-out;
+}
+
+.grow:hover {
+  transform: scale(1.1);
 }
 
 @keyframes fadeInOpacity {
