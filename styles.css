@@ -1,5 +1,4 @@
 body {
-  /* background-color: #e6e7ee !important; */
   background-color: #f7f4ec !important;
 }
 
@@ -18,8 +17,6 @@ body {
 
 .neumorphic {
   align-items: center;
-
-  /* background-color: #e6e7ee; */
   background-color: #f7f4ec !important;
   box-shadow: 12px 12px 16px 0 rgba(0, 0, 0, 0.25),
     -8px -8px 12px 0 rgba(255, 255, 255, 0.3);
@@ -95,4 +92,11 @@ body {
   100% {
     opacity: 1;
   }
+}
+
+.footerText {
+  color: rgb(0, 0, 0);
+  font-family: "Raleway", sans-serif;
+  font-size: 25px;
+  margin-top: 100px;
 }
