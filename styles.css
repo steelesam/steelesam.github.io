@@ -60,6 +60,10 @@ body {
   color: #47b415;
 }
 
+#githubIcon {
+  color: black;
+}
+
 .fade-in {
   opacity: 1;
   animation-name: fadeInOpacity;
@@ -75,9 +79,4 @@ body {
   100% {
     opacity: 1;
   }
-}
-
-a {
-  text-decoration: none;
-  color: navajowhite;
 }
