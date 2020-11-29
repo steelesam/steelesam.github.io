@@ -33,3 +33,15 @@ body {
   font-family: "Raleway", sans-serif;
   text-align: center;
 }
+
+#linkedinIcon {
+  color: blue;
+}
+
+#projectsIcon {
+  color: red;
+}
+
+#codeIcon {
+  color: gold;
+}
