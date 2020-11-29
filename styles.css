@@ -28,10 +28,13 @@ body {
   margin: auto;
 }
 
-#blurbP {
+#blurbRow {
   margin-top: 75px;
   font-family: "Raleway", sans-serif;
   text-align: center;
+}
+
+#blurbText {
   font-size: 20px;
 }
 
