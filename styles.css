@@ -41,27 +41,27 @@ body {
 }
 
 #linkedinIcon {
-  color: #4f9bff;
+  color: #4f9bff !important;
 }
 
 #projectsIcon {
-  color: #ff443b;
+  color: #ff443b !important;
 }
 
 #codeIcon {
-  color: #ffcc40;
+  color: #ffcc40 !important;
 }
 
 #contactIcon {
-  color: #ff9a26;
+  color: #ff9a26 !important;
 }
 
 #downloadCVIcon {
-  color: #47b415;
+  color: #47b415 !important;
 }
 
 #githubIcon {
-  color: black;
+  color: black !important;
 }
 
 .fade-in {
