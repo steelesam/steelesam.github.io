@@ -36,6 +36,9 @@ body {
 
 #blurbText {
   font-size: 20px;
+  margin-top: 75px;
+  font-family: "Raleway", sans-serif;
+  text-align: center;
 }
 
 #linkedinIcon {
