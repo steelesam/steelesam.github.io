@@ -1,5 +1,6 @@
 body {
-  background-color: #e6e7ee !important;
+  /* background-color: #e6e7ee !important; */
+  background-color: #ede6d6 !important;
 }
 
 #myName {
@@ -17,7 +18,9 @@ body {
 
 .neumorphic {
   align-items: center;
-  background-color: #e6e7ee;
+
+  /* background-color: #e6e7ee; */
+  background-color: #ede6d6;
   box-shadow: 12px 12px 16px 0 rgba(0, 0, 0, 0.25),
     -8px -8px 12px 0 rgba(255, 255, 255, 0.3);
   border-radius: 50px;
