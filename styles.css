@@ -10,6 +10,14 @@ body {
   letter-spacing: 3px;
 }
 
+#myProjects {
+  color: rgb(0, 0, 0);
+  font-family: "Raleway", sans-serif;
+  font-size: 60px;
+  margin-top: 500px;
+  letter-spacing: 3px;
+}
+
 #linksContainer {
   margin-top: 80px;
   font-family: "Raleway", sans-serif;
