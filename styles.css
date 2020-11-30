@@ -124,6 +124,11 @@ body {
   box-shadow: -6px -6px 20px rgba(255, 255, 255, 1),
     6px 6px 20px rgba(0, 0, 0, 0.1);
 }
+
+.card {
+  height: 450px;
+}
+
 .container .card:hover {
   box-shadow: inset -6px -6px 20px rgba(255, 255, 255, 0.5),
     inset 6px 6px 20px rgba(0, 0, 0, 0.05);
