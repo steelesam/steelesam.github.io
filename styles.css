@@ -106,3 +106,7 @@ body {
   background-color: ghostwhite;
   margin-top: 50px;
 }
+
+.mycustom_class.w3-animate-bottom {
+  animation: 3s ease 0s normal none 1 running animatebottom;
+}
