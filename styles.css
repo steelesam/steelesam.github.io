@@ -140,20 +140,20 @@ body {
   text-align: center;
 }
 .container .card .contentBx h2 {
-  color: #32a3b1;
+  color: #1b1b1b;
   font-weight: 700;
   font-size: 1.4em;
   letter-spacing: 2px;
 }
 .container .card .contentBx p {
-  color: #32a3b1;
+  color: #1b1b1b;
 }
 .container .card .contentBx a {
   display: inline-block;
   padding: 10px 20px;
   margin-top: 15px;
   border-radius: 40px;
-  color: #32a3b1;
+  color: #1b1b1b;
   font-size: 16px;
   text-decoration: none;
   box-shadow: -4px -4px 15px rgba(255, 255, 255, 1),
@@ -182,5 +182,5 @@ body {
   height: 150px;
   justify-content: center;
   width: 150px;
-  margin: auto;
+  margin: 35px;
 }
