@@ -24,32 +24,6 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
-.neumorphic {
-  align-items: center;
-  background-color: #f7f4ec !important;
-  box-shadow: 12px 12px 16px 0 rgba(0, 0, 0, 0.25),
-    -8px -8px 12px 0 rgba(255, 255, 255, 0.3);
-  border-radius: 50px;
-  display: flex;
-  height: 150px;
-  justify-content: center;
-  width: 150px;
-  margin: auto;
-}
-
-.neumorphicCard {
-  align-items: center;
-  background-color: #f7f4ec !important;
-  box-shadow: 12px 12px 16px 0 rgba(0, 0, 0, 0.25),
-    -8px -8px 12px 0 rgba(255, 255, 255, 0.3);
-  border-radius: 30px;
-  display: flex;
-  height: 350px;
-  justify-content: center;
-  width: 200px;
-  margin: auto;
-}
-
 #blurbRow {
   margin-top: 75px;
   font-family: "Raleway", sans-serif;
@@ -196,4 +170,17 @@ body {
 .container .card:hover .imgBx,
 .container .card:hover .contentBx {
   transform: scale(0.98);
+}
+
+.neumorphic {
+  align-items: center;
+  background-color: #f7f4ec !important;
+  box-shadow: 12px 12px 16px 0 rgba(0, 0, 0, 0.25),
+    -8px -8px 12px 0 rgba(255, 255, 255, 0.3);
+  border-radius: 50px;
+  display: flex;
+  height: 150px;
+  justify-content: center;
+  width: 150px;
+  margin: auto;
 }
