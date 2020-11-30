@@ -110,7 +110,7 @@
         <div class="row">
           <div class="col"></div>
           <div class="col-12 text-center">
-              <h1 id="myProjects"></h1>
+              <h1 id="myProjects">Projects</h1>
             </div>
           </div>
           <div class="col"></div>
@@ -171,7 +171,6 @@
 <script>
   var i = 0;
   var text = "Sam Steele | Software Developer";
-  var projectsText = "Projects";
   var speed = 75;
 
   function typeWriter() {
@@ -182,11 +181,4 @@
     }
   }
 
-  function typeWriterProjects() {
-    if (i < text.length) {
-      document.getElementById("myProjects").innerHTML += projectsText.charAt(i);
-      i++;
-      setTimeout(typeWriter, speed);
-    }
-  }
 </script>
