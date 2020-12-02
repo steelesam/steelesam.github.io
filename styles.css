@@ -200,5 +200,5 @@ body {
 
 .card {
   height: 475px;
-  border: none;
+  border: none !important;
 }
