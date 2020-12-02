@@ -114,11 +114,7 @@ body {
   background: #f7f4ec;
   border-radius: 40px;
   box-shadow: -6px -6px 20px rgba(255, 255, 255, 1),
-    6px 6px 20px rgba(0, 0, 0, 0.1);
-}
-
-.card {
-  height: 475px;
+    6px 6px 20px rgba(0, 0, 0, 0.2);
 }
 
 .container .card:hover {
@@ -200,4 +196,9 @@ body {
 #email,
 #phone {
   margin-top: 40px;
+}
+
+.card {
+  height: 475px;
+  border: none;
 }
